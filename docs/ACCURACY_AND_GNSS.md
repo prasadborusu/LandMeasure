@@ -25,3 +25,5 @@ Initial documentation draft.
 <!-- Milestone 74: docs(export): document PDF multi-page layout and typography guidelines -->
 
 <!-- Milestone 81: docs(arch): document component tree hierarchy -->
+
+<!-- Milestone 88: docs(arch): describe Leaflet marker drag event handling and optimization -->
