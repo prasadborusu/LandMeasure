@@ -27,3 +27,5 @@ Initial documentation draft.
 <!-- Milestone 78: docs(export): document automated file naming conventions with timestamps -->
 
 <!-- Milestone 85: docs(arch): analyze web worker offloading vs synchronous execution -->
+
+<!-- Milestone 92: docs(arch): specify color palette tokens and contrast ratios -->
