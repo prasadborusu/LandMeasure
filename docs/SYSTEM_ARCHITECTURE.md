@@ -21,3 +21,5 @@ Initial documentation draft.
 <!-- Milestone 62: docs(gnss): specify geolocation watchPosition API fallback handling -->
 
 <!-- Milestone 69: docs(export): detail PDF document layout and styling engine -->
+
+<!-- Milestone 76: docs(export): specify metadata properties attached to GeoJSON output -->
