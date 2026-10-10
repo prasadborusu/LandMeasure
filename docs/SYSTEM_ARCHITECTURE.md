@@ -7,3 +7,5 @@ Initial documentation draft.
 <!-- Milestone 13: docs(math): explain Mercator secant area distortion scaling factor -->
 
 <!-- Milestone 20: docs(units): define international metric land measurement units (m², ha, km²) -->
+
+<!-- Milestone 27: docs(units): detail 43,560 square feet per acre derivation -->
