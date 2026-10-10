@@ -17,3 +17,5 @@ Initial documentation draft.
 <!-- Milestone 47: docs(geom): document convex hull computation using Graham scan -->
 
 <!-- Milestone 54: docs(gnss): describe atmospheric delay and multipath signal degradation -->
+
+<!-- Milestone 61: docs(gnss): document multi-path reflection errors near buildings and foliage -->
