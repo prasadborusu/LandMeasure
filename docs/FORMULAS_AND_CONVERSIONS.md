@@ -9,3 +9,5 @@ Initial documentation draft.
 <!-- Milestone 16: docs(math): derive ellipsoidal surface area formula via elliptic integrals -->
 
 <!-- Milestone 23: docs(units): document regional Ground, Bigha, Biswa, Kanal, and Marla -->
+
+<!-- Milestone 30: docs(units): add Bigha regional variances across Indian states -->
