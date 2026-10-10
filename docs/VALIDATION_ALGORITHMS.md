@@ -13,3 +13,5 @@ Initial documentation draft.
 <!-- Milestone 31: docs(units): document Biswa subdivision ratios of Bigha -->
 
 <!-- Milestone 38: docs(geom): specify vertex proximity threshold and filtering (0.2m) -->
+
+<!-- Milestone 45: docs(geom): formalize collinear segment overlap boundary conditions -->
