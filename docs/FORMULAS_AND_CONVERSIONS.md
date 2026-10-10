@@ -21,3 +21,5 @@ Initial documentation draft.
 <!-- Milestone 58: docs(gnss): document dilution of precision thresholds and quality grades -->
 
 <!-- Milestone 65: docs(gnss): document coordinate epoch and tectonic plate drift implications -->
+
+<!-- Milestone 72: docs(export): detail CSV boundary coordinate export formatting -->
