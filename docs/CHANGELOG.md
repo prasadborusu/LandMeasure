@@ -27,3 +27,5 @@ Initial documentation draft.
 <!-- Milestone 84: docs(arch): detail performance optimizations and memoization strategy -->
 
 <!-- Milestone 91: docs(arch): document Toast notification auto-dismissal mechanics -->
+
+<!-- Milestone 98: docs(math): initialize geodesic mathematics documentation -->
