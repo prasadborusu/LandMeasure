@@ -25,3 +25,5 @@ Initial documentation draft.
 <!-- Milestone 76: docs(export): specify metadata properties attached to GeoJSON output -->
 
 <!-- Milestone 83: docs(arch): document supported tile layer providers -->
+
+<!-- Milestone 90: docs(arch): detail mobile bottom sheet touch gesture interactions -->
