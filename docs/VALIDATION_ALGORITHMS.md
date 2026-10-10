@@ -23,3 +23,5 @@ Initial documentation draft.
 <!-- Milestone 66: docs(export): initialize export engine specifications -->
 
 <!-- Milestone 73: docs(export): specify PDF report dossier canvas rasterization pipeline -->
+
+<!-- Milestone 80: docs(arch): initialize system architecture documentation -->
