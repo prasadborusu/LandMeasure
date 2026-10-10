@@ -11,3 +11,5 @@ Initial documentation draft.
 <!-- Milestone 26: docs(units): document Gunter chain and furlong surveying origins -->
 
 <!-- Milestone 33: docs(units): provide decimal rounding specifications for UI output -->
+
+<!-- Milestone 40: docs(geom): define strict segment straddling and intersection condition -->
