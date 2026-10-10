@@ -19,3 +19,5 @@ Initial documentation draft.
 <!-- Milestone 56: docs(gnss): add ionospheric scintillation and solar storm delay notes -->
 
 <!-- Milestone 63: docs(gnss): add legal cadastral survey disclaimer requirements -->
+
+<!-- Milestone 70: docs(export): register EPSG:4326 and EPSG:3857 coordinate systems -->
