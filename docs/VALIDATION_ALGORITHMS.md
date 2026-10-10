@@ -15,3 +15,5 @@ Initial documentation draft.
 <!-- Milestone 38: docs(geom): specify vertex proximity threshold and filtering (0.2m) -->
 
 <!-- Milestone 45: docs(geom): formalize collinear segment overlap boundary conditions -->
+
+<!-- Milestone 52: docs(gnss): add GNSS receiver accuracy hierarchy comparison table -->
