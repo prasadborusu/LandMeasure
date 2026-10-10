@@ -17,3 +17,5 @@ Initial documentation draft.
 <!-- Milestone 49: docs(geom): detail minimum vertex requirement (n >= 3) for parcels -->
 
 <!-- Milestone 56: docs(gnss): add ionospheric scintillation and solar storm delay notes -->
+
+<!-- Milestone 63: docs(gnss): add legal cadastral survey disclaimer requirements -->
