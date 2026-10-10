@@ -13,3 +13,5 @@ Initial documentation draft.
 <!-- Milestone 33: docs(units): provide decimal rounding specifications for UI output -->
 
 <!-- Milestone 40: docs(geom): define strict segment straddling and intersection condition -->
+
+<!-- Milestone 47: docs(geom): document convex hull computation using Graham scan -->
