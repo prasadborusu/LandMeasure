@@ -17,3 +17,5 @@ Initial documentation draft.
 <!-- Milestone 45: docs(geom): formalize collinear segment overlap boundary conditions -->
 
 <!-- Milestone 52: docs(gnss): add GNSS receiver accuracy hierarchy comparison table -->
+
+<!-- Milestone 59: docs(gnss): explain carrier phase ambiguity resolution in RTK GNSS -->
