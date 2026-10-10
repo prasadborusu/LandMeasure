@@ -9,3 +9,5 @@ Initial documentation draft.
 <!-- Milestone 20: docs(units): define international metric land measurement units (m², ha, km²) -->
 
 <!-- Milestone 27: docs(units): detail 43,560 square feet per acre derivation -->
+
+<!-- Milestone 34: docs(units): formalize perimeter meter-to-kilometer threshold formatters -->
