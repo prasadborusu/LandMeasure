@@ -27,3 +27,5 @@ Initial documentation draft.
 <!-- Milestone 81: docs(arch): document component tree hierarchy -->
 
 <!-- Milestone 88: docs(arch): describe Leaflet marker drag event handling and optimization -->
+
+<!-- Milestone 95: docs(changelog): initialize changelog for v1.0.0 release -->
