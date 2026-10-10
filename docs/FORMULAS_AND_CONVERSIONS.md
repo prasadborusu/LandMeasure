@@ -27,3 +27,5 @@ Initial documentation draft.
 <!-- Milestone 79: docs(export): specify MIME types for GeoJSON, CSV, and PDF payloads -->
 
 <!-- Milestone 86: docs(arch): document useMeasurement hook state machine and dispatchers -->
+
+<!-- Milestone 93: docs(arch): detail coordinate popup coordinate display formatting -->
