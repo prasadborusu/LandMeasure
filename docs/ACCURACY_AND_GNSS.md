@@ -21,3 +21,5 @@ Initial documentation draft.
 <!-- Milestone 60: docs(gnss): contrast consumer smartphone GPS vs survey-grade RTK -->
 
 <!-- Milestone 67: docs(export): define RFC 7946 compliant GeoJSON output structure -->
+
+<!-- Milestone 74: docs(export): document PDF multi-page layout and typography guidelines -->
