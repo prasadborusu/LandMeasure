@@ -11,3 +11,5 @@ Initial documentation draft.
 <!-- Milestone 22: docs(units): specify Indian Cent and Guntha conversion standards -->
 
 <!-- Milestone 29: docs(units): document Tamil Nadu Ground standard (2400 sq ft) -->
+
+<!-- Milestone 36: docs(geom): initialize spatial geometry validation documentation -->
