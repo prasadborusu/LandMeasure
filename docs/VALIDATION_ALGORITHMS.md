@@ -11,3 +11,5 @@ Initial documentation draft.
 <!-- Milestone 24: docs(units): complete cross-unit conversion matrix table -->
 
 <!-- Milestone 31: docs(units): document Biswa subdivision ratios of Bigha -->
+
+<!-- Milestone 38: docs(geom): specify vertex proximity threshold and filtering (0.2m) -->
