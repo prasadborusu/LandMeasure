@@ -21,3 +21,5 @@ Initial documentation draft.
 <!-- Milestone 57: docs(gnss): detail dual-frequency L1 and L5 receiver noise cancellation -->
 
 <!-- Milestone 64: docs(gnss): detail surveying grade standard operating procedures (SOP) -->
+
+<!-- Milestone 71: docs(export): specify GeoJSON RFC 7946 Polygon winding direction standard -->
