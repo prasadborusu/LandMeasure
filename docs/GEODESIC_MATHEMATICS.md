@@ -23,3 +23,5 @@ Initial documentation draft.
 <!-- Milestone 64: docs(gnss): detail surveying grade standard operating procedures (SOP) -->
 
 <!-- Milestone 71: docs(export): specify GeoJSON RFC 7946 Polygon winding direction standard -->
+
+<!-- Milestone 78: docs(export): document automated file naming conventions with timestamps -->
