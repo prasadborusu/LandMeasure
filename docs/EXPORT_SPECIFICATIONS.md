@@ -19,3 +19,5 @@ Initial documentation draft.
 <!-- Milestone 54: docs(gnss): describe atmospheric delay and multipath signal degradation -->
 
 <!-- Milestone 61: docs(gnss): document multi-path reflection errors near buildings and foliage -->
+
+<!-- Milestone 68: docs(export): define CSV boundary coordinate schema -->
