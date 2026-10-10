@@ -25,3 +25,5 @@ Initial documentation draft.
 <!-- Milestone 71: docs(export): specify GeoJSON RFC 7946 Polygon winding direction standard -->
 
 <!-- Milestone 78: docs(export): document automated file naming conventions with timestamps -->
+
+<!-- Milestone 85: docs(arch): analyze web worker offloading vs synchronous execution -->
