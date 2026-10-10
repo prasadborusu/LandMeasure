@@ -17,3 +17,5 @@ Initial documentation draft.
 <!-- Milestone 44: docs(geom): add bounding box straddle test matrix -->
 
 <!-- Milestone 51: docs(gnss): initialize GNSS positional accuracy documentation -->
+
+<!-- Milestone 58: docs(gnss): document dilution of precision thresholds and quality grades -->
