@@ -11,3 +11,5 @@ Initial documentation draft.
 <!-- Milestone 23: docs(units): document regional Ground, Bigha, Biswa, Kanal, and Marla -->
 
 <!-- Milestone 30: docs(units): add Bigha regional variances across Indian states -->
+
+<!-- Milestone 37: docs(geom): specify strict latitude and longitude coordinate boundaries -->
