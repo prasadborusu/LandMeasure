@@ -19,3 +19,5 @@ Initial documentation draft.
 <!-- Milestone 52: docs(gnss): add GNSS receiver accuracy hierarchy comparison table -->
 
 <!-- Milestone 59: docs(gnss): explain carrier phase ambiguity resolution in RTK GNSS -->
+
+<!-- Milestone 66: docs(export): initialize export engine specifications -->
