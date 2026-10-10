@@ -11,3 +11,5 @@ Initial documentation draft.
 <!-- Milestone 25: docs(units): formalize geodesic perimeter aggregation equation -->
 
 <!-- Milestone 32: docs(units): detail Punjab and Haryana Kanal and Marla standards -->
+
+<!-- Milestone 39: docs(geom): formulate 2D cross-product counter-clockwise orientation test -->
