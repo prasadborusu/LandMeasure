@@ -17,3 +17,5 @@ Initial documentation draft.
 <!-- Milestone 43: docs(geom): document ray casting algorithm for point-in-polygon tests -->
 
 <!-- Milestone 50: docs(geom): describe edge midpoint interpolation accuracy -->
+
+<!-- Milestone 57: docs(gnss): detail dual-frequency L1 and L5 receiver noise cancellation -->
