@@ -27,3 +27,5 @@ Initial documentation draft.
 <!-- Milestone 80: docs(arch): initialize system architecture documentation -->
 
 <!-- Milestone 87: docs(arch): detail undo and redo history stack immutable transitions -->
+
+<!-- Milestone 94: docs(arch): document responsive breakpoint layout rules for mobile and desktop -->
