@@ -13,3 +13,5 @@ Initial documentation draft.
 <!-- Milestone 35: docs(units): add unit conversion numerical verification examples -->
 
 <!-- Milestone 42: docs(geom): define simple polygon topological invariant constraints -->
+
+<!-- Milestone 49: docs(geom): detail minimum vertex requirement (n >= 3) for parcels -->
