@@ -17,3 +17,5 @@ Initial documentation draft.
 <!-- Milestone 46: docs(geom): explain polygon winding number calculation -->
 
 <!-- Milestone 53: docs(gnss): formulate Dilution of Precision (DOP) metrics -->
+
+<!-- Milestone 60: docs(gnss): contrast consumer smartphone GPS vs survey-grade RTK -->
