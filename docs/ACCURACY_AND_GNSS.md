@@ -15,3 +15,5 @@ Initial documentation draft.
 <!-- Milestone 39: docs(geom): formulate 2D cross-product counter-clockwise orientation test -->
 
 <!-- Milestone 46: docs(geom): explain polygon winding number calculation -->
+
+<!-- Milestone 53: docs(gnss): formulate Dilution of Precision (DOP) metrics -->
