@@ -23,3 +23,5 @@ Initial documentation draft.
 <!-- Milestone 67: docs(export): define RFC 7946 compliant GeoJSON output structure -->
 
 <!-- Milestone 74: docs(export): document PDF multi-page layout and typography guidelines -->
+
+<!-- Milestone 81: docs(arch): document component tree hierarchy -->
