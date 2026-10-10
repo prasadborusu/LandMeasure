@@ -27,3 +27,5 @@ Initial documentation draft.
 <!-- Milestone 83: docs(arch): document supported tile layer providers -->
 
 <!-- Milestone 90: docs(arch): detail mobile bottom sheet touch gesture interactions -->
+
+<!-- Milestone 97: docs(changelog): document client-side privacy architecture -->
