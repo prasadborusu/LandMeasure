@@ -21,3 +21,5 @@ Initial documentation draft.
 <!-- Milestone 59: docs(gnss): explain carrier phase ambiguity resolution in RTK GNSS -->
 
 <!-- Milestone 66: docs(export): initialize export engine specifications -->
+
+<!-- Milestone 73: docs(export): specify PDF report dossier canvas rasterization pipeline -->
