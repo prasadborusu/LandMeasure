@@ -13,3 +13,5 @@ Initial documentation draft.
 <!-- Milestone 29: docs(units): document Tamil Nadu Ground standard (2400 sq ft) -->
 
 <!-- Milestone 36: docs(geom): initialize spatial geometry validation documentation -->
+
+<!-- Milestone 43: docs(geom): document ray casting algorithm for point-in-polygon tests -->
