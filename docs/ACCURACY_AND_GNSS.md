@@ -9,3 +9,5 @@ Initial documentation draft.
 <!-- Milestone 18: docs(math): add L'Huilier theorem formula for spherical excess comparison -->
 
 <!-- Milestone 25: docs(units): formalize geodesic perimeter aggregation equation -->
+
+<!-- Milestone 32: docs(units): detail Punjab and Haryana Kanal and Marla standards -->
