@@ -19,3 +19,5 @@ Initial documentation draft.
 <!-- Milestone 53: docs(gnss): formulate Dilution of Precision (DOP) metrics -->
 
 <!-- Milestone 60: docs(gnss): contrast consumer smartphone GPS vs survey-grade RTK -->
+
+<!-- Milestone 67: docs(export): define RFC 7946 compliant GeoJSON output structure -->
