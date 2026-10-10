@@ -25,3 +25,5 @@ Initial documentation draft.
 <!-- Milestone 73: docs(export): specify PDF report dossier canvas rasterization pipeline -->
 
 <!-- Milestone 80: docs(arch): initialize system architecture documentation -->
+
+<!-- Milestone 87: docs(arch): detail undo and redo history stack immutable transitions -->
