@@ -21,3 +21,5 @@ Initial documentation draft.
 <!-- Milestone 63: docs(gnss): add legal cadastral survey disclaimer requirements -->
 
 <!-- Milestone 70: docs(export): register EPSG:4326 and EPSG:3857 coordinate systems -->
+
+<!-- Milestone 77: docs(export): add CSV decimal precision formatting rules -->
