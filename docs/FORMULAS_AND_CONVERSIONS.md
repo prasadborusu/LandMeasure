@@ -19,3 +19,5 @@ Initial documentation draft.
 <!-- Milestone 51: docs(gnss): initialize GNSS positional accuracy documentation -->
 
 <!-- Milestone 58: docs(gnss): document dilution of precision thresholds and quality grades -->
+
+<!-- Milestone 65: docs(gnss): document coordinate epoch and tectonic plate drift implications -->
