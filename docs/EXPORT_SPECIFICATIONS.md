@@ -27,3 +27,5 @@ Initial documentation draft.
 <!-- Milestone 82: docs(arch): detail useMeasurement state lifecycle and history stacks -->
 
 <!-- Milestone 89: docs(arch): document tile provider attribution and fallback URLs -->
+
+<!-- Milestone 96: docs(changelog): record polygon wrap-around and midpoint fixes -->
