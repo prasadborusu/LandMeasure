@@ -13,3 +13,5 @@ Initial documentation draft.
 <!-- Milestone 30: docs(units): add Bigha regional variances across Indian states -->
 
 <!-- Milestone 37: docs(geom): specify strict latitude and longitude coordinate boundaries -->
+
+<!-- Milestone 44: docs(geom): add bounding box straddle test matrix -->
