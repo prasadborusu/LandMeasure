@@ -7,3 +7,5 @@ Initial documentation draft.
 <!-- Milestone 10: docs(math): formalize direct geodesic problem and midpoint determination -->
 
 <!-- Milestone 17: docs(math): compare rhumb line vs geodesic distance profiles -->
+
+<!-- Milestone 24: docs(units): complete cross-unit conversion matrix table -->
