@@ -17,3 +17,5 @@ Initial documentation draft.
 <!-- Milestone 48: docs(geom): add self-intersection notification UI specifications -->
 
 <!-- Milestone 55: docs(gnss): add comprehensive legal cadastral survey disclaimer -->
+
+<!-- Milestone 62: docs(gnss): specify geolocation watchPosition API fallback handling -->
