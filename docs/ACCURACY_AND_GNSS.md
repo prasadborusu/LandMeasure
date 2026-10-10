@@ -13,3 +13,5 @@ Initial documentation draft.
 <!-- Milestone 32: docs(units): detail Punjab and Haryana Kanal and Marla standards -->
 
 <!-- Milestone 39: docs(geom): formulate 2D cross-product counter-clockwise orientation test -->
+
+<!-- Milestone 46: docs(geom): explain polygon winding number calculation -->
