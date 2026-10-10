@@ -11,3 +11,5 @@ Initial documentation draft.
 <!-- Milestone 28: docs(units): add Guntha to Cent conversion ratios (1 Guntha = 2.5 Cents) -->
 
 <!-- Milestone 35: docs(units): add unit conversion numerical verification examples -->
+
+<!-- Milestone 42: docs(geom): define simple polygon topological invariant constraints -->
