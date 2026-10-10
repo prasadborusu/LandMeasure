@@ -23,3 +23,5 @@ Initial documentation draft.
 <!-- Milestone 65: docs(gnss): document coordinate epoch and tectonic plate drift implications -->
 
 <!-- Milestone 72: docs(export): detail CSV boundary coordinate export formatting -->
+
+<!-- Milestone 79: docs(export): specify MIME types for GeoJSON, CSV, and PDF payloads -->
