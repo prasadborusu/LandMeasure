@@ -21,3 +21,5 @@ Initial documentation draft.
 <!-- Milestone 61: docs(gnss): document multi-path reflection errors near buildings and foliage -->
 
 <!-- Milestone 68: docs(export): define CSV boundary coordinate schema -->
+
+<!-- Milestone 75: docs(export): add export modal accessibility and keyboard navigation notes -->
