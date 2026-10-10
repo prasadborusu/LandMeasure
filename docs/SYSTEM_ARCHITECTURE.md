@@ -19,3 +19,5 @@ Initial documentation draft.
 <!-- Milestone 55: docs(gnss): add comprehensive legal cadastral survey disclaimer -->
 
 <!-- Milestone 62: docs(gnss): specify geolocation watchPosition API fallback handling -->
+
+<!-- Milestone 69: docs(export): detail PDF document layout and styling engine -->
