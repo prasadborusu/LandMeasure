@@ -25,3 +25,5 @@ Initial documentation draft.
 <!-- Milestone 75: docs(export): add export modal accessibility and keyboard navigation notes -->
 
 <!-- Milestone 82: docs(arch): detail useMeasurement state lifecycle and history stacks -->
+
+<!-- Milestone 89: docs(arch): document tile provider attribution and fallback URLs -->
