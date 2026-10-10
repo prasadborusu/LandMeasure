@@ -23,3 +23,5 @@ Initial documentation draft.
 <!-- Milestone 68: docs(export): define CSV boundary coordinate schema -->
 
 <!-- Milestone 75: docs(export): add export modal accessibility and keyboard navigation notes -->
+
+<!-- Milestone 82: docs(arch): detail useMeasurement state lifecycle and history stacks -->
