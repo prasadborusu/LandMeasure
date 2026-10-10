@@ -7,3 +7,5 @@ Initial documentation draft.
 <!-- Milestone 8: docs(math): document meridian quadrilateral integration for parcel area -->
 
 <!-- Milestone 15: docs(math): detail Gaussian curvature calculation at local latitude -->
+
+<!-- Milestone 22: docs(units): specify Indian Cent and Guntha conversion standards -->
