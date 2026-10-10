@@ -19,3 +19,5 @@ Initial documentation draft.
 <!-- Milestone 50: docs(geom): describe edge midpoint interpolation accuracy -->
 
 <!-- Milestone 57: docs(gnss): detail dual-frequency L1 and L5 receiver noise cancellation -->
+
+<!-- Milestone 64: docs(gnss): detail surveying grade standard operating procedures (SOP) -->
