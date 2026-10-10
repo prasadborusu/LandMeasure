@@ -15,3 +15,5 @@ Initial documentation draft.
 <!-- Milestone 41: docs(geom): detail non-adjacent edge collision detection loop -->
 
 <!-- Milestone 48: docs(geom): add self-intersection notification UI specifications -->
+
+<!-- Milestone 55: docs(gnss): add comprehensive legal cadastral survey disclaimer -->
