@@ -23,3 +23,5 @@ Initial documentation draft.
 <!-- Milestone 70: docs(export): register EPSG:4326 and EPSG:3857 coordinate systems -->
 
 <!-- Milestone 77: docs(export): add CSV decimal precision formatting rules -->
+
+<!-- Milestone 84: docs(arch): detail performance optimizations and memoization strategy -->
