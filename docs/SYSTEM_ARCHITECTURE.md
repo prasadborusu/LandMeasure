@@ -13,3 +13,5 @@ Initial documentation draft.
 <!-- Milestone 34: docs(units): formalize perimeter meter-to-kilometer threshold formatters -->
 
 <!-- Milestone 41: docs(geom): detail non-adjacent edge collision detection loop -->
+
+<!-- Milestone 48: docs(geom): add self-intersection notification UI specifications -->
