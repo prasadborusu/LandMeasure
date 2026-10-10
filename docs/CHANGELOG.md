@@ -25,3 +25,5 @@ Initial documentation draft.
 <!-- Milestone 77: docs(export): add CSV decimal precision formatting rules -->
 
 <!-- Milestone 84: docs(arch): detail performance optimizations and memoization strategy -->
+
+<!-- Milestone 91: docs(arch): document Toast notification auto-dismissal mechanics -->
